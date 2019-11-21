@@ -400,3 +400,11 @@ GNN: graph neural network
 1. **A Degeneracy Framework for Scalable Graph Autoencoders.** IJCAI 2019. [paper](https://arxiv.org/pdf/1902.08813.pdf)
 
     *Guillaume Salha, Romain Hennequin, Viet Anh Tran, Michalis Vazirgiannis.*
+1. **OAG: Toward Linking Large-scale Heterogeneous Entity Graphs. (Knowledge Graph)** KDD 2019. [paper](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD19-Zhang-et-al-Open_Academic_Graph.pdf)
+
+1. **Accurate, Efﬁcient and Scalable Graph Embedding** [paper](https://arxiv.org/pdf/1810.11899.pdf)
+2. **Is PageRank All You Need for Scalable GraphNeuralNetworks?** [paper](http://www.mlgworkshop.org/2019/papers/MLG2019_paper_50.pdf)
+3. **GaAN:Gated AttentionNetworks for Learning on Large and Spatiotemporal Graphs** [paper](https://arxiv.org/pdf/1803.07294.pdf)
+4. **Accurate, Efﬁcient and Scalable Graph Embedding** [paper](https://arxiv.org/pdf/1810.11899.pdf)
+5. **Constant Time Graph Neural Networks** [paper](https://arxiv.org/abs/1901.07868)
+6. **GraphSAINT: Graph Sampling Based Inductive Learning Method** [paper](https://arxiv.org/abs/1907.04931)
